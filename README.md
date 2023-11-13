@@ -496,3 +496,5 @@ db.listings.aggregate([
 
 ```
 Certain neighborhoods (like 'Forest Hills' and 'Williamsburg, Brooklyn') have very high average ratings, suggesting generally higher quality of listings in these areas. The high average ratings indicate general customer satisfaction but might also hint that the rating standards could be lenient or biased in some way.
+
+I completed this assignment with Haotong Wu(hw2933).
