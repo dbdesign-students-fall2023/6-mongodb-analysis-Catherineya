@@ -497,4 +497,19 @@ db.listings.aggregate([
 ```
 Certain neighborhoods (like 'Forest Hills' and 'Williamsburg, Brooklyn') have very high average ratings, suggesting generally higher quality of listings in these areas. The high average ratings indicate general customer satisfaction but might also hint that the rating standards could be lenient or biased in some way.
 
+
+## Extra Credit
+This assignment deserves extra credit because I wrote a python program to to connect to the MongoDB database and perform the queries. The [python file](extra_credit.ipynb) is here. 
+
+I first print the documents in the collection to see what the data looks like and make sure that the environment is set up correctly. 
+The code is shown below:
+```python
+for doc in docs:
+    print(doc)
+```
+Then I use the code to show the same query results as above. And the result is the same. 
+You can find the result in my code so that I think I deserve the extra point. 
+
+
+
 I completed this assignment with Haotong Wu(hw2933).
